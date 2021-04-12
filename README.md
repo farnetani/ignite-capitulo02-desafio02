@@ -2,9 +2,7 @@
   Desafio 02 do capítulo 02 do curso Ignite da Rocketseat
 </h3>
 <p align="center">
-  <video autoplay controls id="video_intro" poster="/img/loading-vid.png" width="640" height="360">
-    <source src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d7d94fcf-b6af-40eb-a215-731ac274e475/Peek_2021-03-10_10-43.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210411%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210411T124749Z&X-Amz-Expires=86400&X-Amz-Signature=549b23e51fb968435d0e98b21e20169d035097d9ade0f0ba6b63e5e582156280&X-Amz-SignedHeaders=host" type="video/mp4" />
-  </video>
+  <img src=".github/app.png">
 </p>
 
 <p align="center">
