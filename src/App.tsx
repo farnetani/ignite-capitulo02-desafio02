@@ -1,10 +1,14 @@
-import { GlobalStyle } from './styles/global'
+import { BrowserRouter as Router } from 'react-router-dom'
 
-export function App() {
-  return (
-    <div className="App">
-      <GlobalStyle />
-      <h1 className="title">Hello World</h1>
-    </div>
-  )
-}
+import Routes from './routes'
+
+import GlobalStyle from './styles/global'
+
+export const App = () => (
+  <>
+    <GlobalStyle />
+    <Router>
+      <Routes />
+    </Router>
+  </>
+)
