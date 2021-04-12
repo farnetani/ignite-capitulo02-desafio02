@@ -1,10 +1,15 @@
 <h3 align="center">
-  Template Create React App Full
+  Desafio 02 do capítulo 02 do curso Ignite da Rocketseat
 </h3>
+<p align="center">
+  <video autoplay controls id="video_intro" poster="/img/loading-vid.png" width="640" height="360">
+    <source src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d7d94fcf-b6af-40eb-a215-731ac274e475/Peek_2021-03-10_10-43.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210411%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210411T124749Z&X-Amz-Expires=86400&X-Amz-Signature=549b23e51fb968435d0e98b21e20169d035097d9ade0f0ba6b63e5e582156280&X-Amz-SignedHeaders=host" type="video/mp4" />
+  </video>
+</p>
 
 <p align="center">
   <a href="https://farsoft.com.br">
-    <img alt="Feito para Farsoft Systems" src="https://img.shields.io/badge/made%20by-Farsoft%20Systems-purple%2306b656?style=flat-square">
+    <img alt="Feito para Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-purple%2306b656?style=flat-square">
   </a>
 
   <a href="https://www.github.com/farnetani/">
@@ -16,25 +21,11 @@
 
 ## :rocket: Sobre o aplicativo
 
-Template padrão utilizando STYLED-COMPONENTS que usaremos na Farsoft para o desenvolvimento de nossos frontens em React.
+Converter uma aplicação pronta em React com componentes de classe em javascript em componentes funcionais e em typescript.
 
-## Outros Templates:
+[Detalhes sobre o desafio](https://www.notion.so/Desafio-02-Refactoring-de-classes-e-typescript-4571541e7f8c4799bd191b6cfb53802c)
 
-**[template-react-prettier-manual](https://github.com/farnetani/template-react-prettier-manual)**
-
-Template para minhas aplicações em React com Eslint + Prettier + Jest sem utilizar o create-react-app.
-
-**[template-react-sem-css](https://github.com/farnetani/template-react-sem-css)**
-
-Template com Create-React-App + Prettier + outras configurações porém sem a instalação do tailwindCSS ou styled-components, ficando livre pra instalar o que desejar, e também não está com SASS.
-
-**[template-react-tailwindcss](https://github.com/farnetani/template-react-tailwindcss)**
-
-Template com create-react-app + prettier + jest + tailwindcss
-
-**[template-react-styled-components](https://github.com/farnetani/template-react-styled-components)**
-
-Template criado do zero com create-react-app e já configurado para utilizar o styled-components.
+[Componente Funcional x Componente de Classe](https://www.notion.so/Componentes-no-React-6644d41da663405cb29dcaae1693bb9f)
 
 <br>
 
@@ -42,40 +33,9 @@ Template criado do zero com create-react-app e já configurado para utilizar o s
 
 ```bash
 
-In the project directory, you can run:
-
 ### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
 ### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 ```
 
